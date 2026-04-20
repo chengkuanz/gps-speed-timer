@@ -1,11 +1,10 @@
 # GPS 1-to-Target Speed Timer for Teensy 4.0
 
+https://github.com/user-attachments/assets/f5da079f-45f5-49f8-aa21-9851be51bdff
+
 This project uses a Teensy 4.0, a u-blox GPS module, and a small I2C OLED display to measure acceleration time from `1 km/h` to a configurable target speed such as `5 km/h` for testing or `50 km/h` for the real run.
 
 The timer starts automatically at `1 km/h` instead of `0 km/h` because GPS speed near zero is noisy and unreliable. The system only arms after the vehicle has come to a full stop, which helps avoid false starts.
-
-## Video
-https://github.com/user-attachments/assets/f5da079f-45f5-49f8-aa21-9851be51bdff
 
 ## Libraries
 

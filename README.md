@@ -267,5 +267,3 @@ For Teensy boards, the default pins are usually:
 - [TinyGPSPlus library](https://github.com/mikalhart/TinyGPSPlus/tree/master)
 
 
-https://github.com/user-attachments/assets/4e6f4102-1a03-40bb-9ee5-62b2b5b6221c
-
